@@ -17,7 +17,7 @@ Cultivate a codebase that's clean, well-organized, and easy to maintain, adherin
 Embrace industry best practices for React Native development"
 
 
-## Tools and technolgoies:**
+## Tools and technolgoies:
 React-native
 
 Expo: 

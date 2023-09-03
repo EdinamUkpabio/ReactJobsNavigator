@@ -1,4 +1,4 @@
-
+![RN Course](https://github.com/EdinamUkpabio/ReactJobsNavigator/blob/main/ReactJobsNavigator.png)
  ## Introduction
 "Embrace the Power of React Native! Elevate your skill set by transitioning 75% of your web development expertise into the exciting realm of mobile app creation.
 

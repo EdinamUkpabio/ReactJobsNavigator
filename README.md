@@ -1,4 +1,12 @@
 ![RN Course](https://github.com/EdinamUkpabio/ReactJobsNavigator/blob/main/ReactJobsNavigator.png)
+
+![GitHub stars](https://img.shields.io/github/stars/EdinamUkpabio/ReactJobsNavigator?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/EdinamUkpabio/ReactJobsNavigator?style=social)
+![GitHub forks](https://img.shields.io/github/forks/EdinamUkpabio/ReactJobsNavigator?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/EdinamUkpabio/ReactJobsNavigator)
+![GitHub contributors](https://img.shields.io/github/contributors/EdinamUkpabio/ReactJobsNavigator)
+![GitHub code size](https://img.shields.io/github/languages/code-size/EdinamUkpabio/ReactJobsNavigator)
+
  ## Introduction
 "Embrace the Power of React Native! Elevate your skill set by transitioning 75% of your web development expertise into the exciting realm of mobile app creation.
 
